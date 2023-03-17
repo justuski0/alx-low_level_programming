@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* prints alphabet in lower case
+* main - Justus
 *
 * Return: Always 0.
 */
