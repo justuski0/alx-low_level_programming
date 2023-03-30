@@ -1,0 +1,1 @@
+task pointers arrays strings
